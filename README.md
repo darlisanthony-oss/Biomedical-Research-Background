@@ -3,7 +3,7 @@ Selected literature-based studies in cardiovascular biomechanics, cerebral perfu
 
 ## Overview
 
-This repository collects selected literature-based undergraduate studies that contributed to the development of my research interests in computational biomechanics, cardiovascular engineering and biomedical fluid mechanics.
+This repository collects selected literature-based undergraduate projects that contributed to the development of my research interests in computational biomechanics, cardiovascular engineering and biomedical fluid mechanics.
 
 The included works focus on three complementary areas:
 
@@ -11,7 +11,7 @@ The included works focus on three complementary areas:
 2. vascular grafts and arterial-wall biomechanics;
 3. artery-on-a-chip systems and biomimetic vascular modelling.
 
-These studies are not presented as original research projects. Their purpose is to document the biomedical background that gradually led to my later work in computational hemodynamics, uncertainty quantification and multi-fidelity modelling.
+These projects are not presented as original research projects. Their purpose is to document the biomedical background that gradually led to my later work in computational hemodynamics, uncertainty quantification and multi-fidelity modelling.
 
 ---
 
@@ -34,7 +34,7 @@ Main topics include:
 - time-attenuation curves
 - hemodynamic interpretation of perfusion measurements
 
-The study provided an introduction to the connection between vascular physiology, medical imaging and quantitative flow-related biomarkers.
+An introduction to the connection between vascular physiology, medical imaging and quantitative flow-related biomarkers.
 
 ---
 
@@ -55,7 +55,7 @@ Main topics include:
 - biological remodelling
 - synthetic, natural and hybrid graft materials
 
-This study helped connect vascular mechanics with material selection and the biomechanical design of cardiovascular implants.
+Connection between vascular mechanics, material selection and the biomechanical design of cardiovascular implants.
 
 ---
 
@@ -76,23 +76,5 @@ Main topics include:
 - biomimetic geometry
 - experimental modelling of vascular disease
 
-The study introduced artery-on-a-chip systems as a potential experimental complement to computational hemodynamics.
+Artery-on-a-chip systems as a potential experimental complement to computational hemodynamics.
 
----
-
-## Research Progression
-
-These studies contributed to the development of a broader research direction:
-
-```text
-Vascular physiology and perfusion
-            ↓
-Arterial mechanics and biomaterials
-            ↓
-Experimental vascular modelling
-            ↓
-Computational hemodynamics
-            ↓
-Uncertainty quantification
-            ↓
-Multi-fidelity cardiovascular modelling
